@@ -4,12 +4,12 @@ Setup environment
 Introduction
 ------------
 
-Environment setup is something that if you don't do right the first time around
-it will come back to haunt you because you will spend a lot of time fighting
-with your tools instead of your tools helping you.  Also, installing tools with
-`sudo` can result in you having to use that tool with `sudo` for every command.
-When downloading things like node modules off the internet this could be a very
-bad idea.  So don't use `sudo` unless it is specifically listed used below.
+Environment setup, if done properly, will make your life easier.  All of us have 
+spent a lot of time fighting with tools.  Isn't it time for a change?
+For example, installing tools with `sudo` can result in having to use `sudo` 
+for every command. When downloading node modules off the internet this could be
+a very bad idea.  So don't use `sudo` unless you have to.  I mention a few 
+appropriate cases throughout this set of instructions.
 
 User setup
 ----------
